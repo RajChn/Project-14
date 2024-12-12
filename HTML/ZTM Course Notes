@@ -1,0 +1,39 @@
+Complete Web Developer in 2025: Zero to Mastery
+
+1) Introduction [X]
+
+2) How The Internet Works
+
+	
+- Browsing the Web
+
+
+ISP = Internet Service Provider
+DNS = Domain Name Server (A phonebook which has a list of all the URLS and the addresses of them) 
+IP Address = Anything that is connected to the internet has an IP address
+Servers = Computers with a piece of software where it knows how to send you files when requested
+Browser = A tool that can receive files from servers and knows how to read and display them
+
+When searching Google.com:
+ 
+Search on Browser ->  
+Goes to ISP -> 
+Goes to DNS -> 
+Sends IP Address to ISP -> 
+IP Address to Browser ->
+Browser Sends IP Address to Google Servers ->
+Google servers send text files to Browser (HTML, CSS, Javascript) ->
+Browser displays the files
+
+
+- Breaking Google
+
+-> View
+-> Developer
+-> Developer Tools
+
+Or right click -> "Inspect Element"
+
+Click Icon on left with pointer and window (element selector), you can then click different elements on the webpage and read and change the code on the Google website.
+
+When we refresh, our changes do not stick. If you look at our request example, we already have the files in our browser, but once we refresh, the browser asks the servers again.
