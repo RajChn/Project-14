@@ -37,3 +37,50 @@ Or right click -> "Inspect Element"
 Click Icon on left with pointer and window (element selector), you can then click different elements on the webpage and read and change the code on the Google website.
 
 When we refresh, our changes do not stick. If you look at our request example, we already have the files in our browser, but once we refresh, the browser asks the servers again.
+
+
+- The Internet Backbone 
+
+= A global network of cables that physically connects the global internet 
+
+Router ->
+Modem ->
+Signal Towers/Wirless Transmitter ->
+Phyiscal Cables connecting it globally 
+
+submarinecablemap.com
+
+
+- Traceroute
+
+Within terminal, type traceroute google.com this will show you the number of hops (stops) to get to the final address (Google.com)
+
+Each hop shows different computers your request goes through to bring you Google.com
+
+Terminal = name of a terminal emulator
+Command Shell = name of the tool to access different commands
+Command Prompt App = Tool that allows you to type commands to the command shell, and view the text it prints as it runs
+
+
+
+Windows has two command shells
+
+- Command Prompt/Shell: Their legacy shell abberviated as CMD
+- Powershell: Their better shell
+
+MacOS and Linux use a different command shell:
+
+- BASH (Bourne Again Shell)
+
+
+
+
+
+
+
+
+
+
+
+
+
