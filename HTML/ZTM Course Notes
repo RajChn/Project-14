@@ -5,7 +5,7 @@ Complete Web Developer in 2025: Zero to Mastery
 2) How The Internet Works
 
 	
-- Browsing the Web
+- BROWSING THE WEB
 
 
 ISP = Internet Service Provider
@@ -26,7 +26,7 @@ Google servers send text files to Browser (HTML, CSS, Javascript) ->
 Browser displays the files
 
 
-- Breaking Google
+- BREAKING GOOGLE
 
 -> View
 -> Developer
@@ -39,7 +39,7 @@ Click Icon on left with pointer and window (element selector), you can then clic
 When we refresh, our changes do not stick. If you look at our request example, we already have the files in our browser, but once we refresh, the browser asks the servers again.
 
 
-- The Internet Backbone 
+- THE INTERNET BACKBONE
 
 = A global network of cables that physically connects the global internet 
 
@@ -51,7 +51,7 @@ Phyiscal Cables connecting it globally
 submarinecablemap.com
 
 
-- Traceroute
+- TRACEROUTE
 
 Within terminal, type traceroute google.com this will show you the number of hops (stops) to get to the final address (Google.com)
 
@@ -74,10 +74,18 @@ MacOS and Linux use a different command shell:
 
 
 
+DEVELOPER FUNDAMENTALS
 
 
+- Getting the server location closer to you will make the website hops less and thus faster
+- Less trips/hops will make it faster
+- Shrinking the size of files makes it faster
 
 
+WHAT DOES A DEVELOPER DO?
+
+- Front End Developer = HTML, CSS, Javascript + React
+- Back End Developer = (Server)Node.js, Express.js (Database) PostgreSQL
 
 
 
